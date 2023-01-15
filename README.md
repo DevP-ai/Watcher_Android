@@ -8,5 +8,13 @@ This app and web has been submitted as a part of the final presentation given by
 
 ## Snapshot
 
-<img alt="Snapshot" src="D:\1.jpg">
 
+![1](https://user-images.githubusercontent.com/107491760/212541773-9813814a-7a44-4f6e-81e7-f7b120ca2eb4.png)
+
+
+
+![2](https://user-images.githubusercontent.com/107491760/212541820-22f69964-adef-4653-988c-8776a0a3b2d1.png)
+
+
+
+![3](https://user-images.githubusercontent.com/107491760/212541871-3447da06-72a2-4c1c-b33c-cb38810e285e.png)
